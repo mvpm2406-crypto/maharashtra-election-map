@@ -1,0 +1,26 @@
+[
+  {
+    "ac_no": 99,
+    "ac_name": "Partur",
+    "district": "Parbhani",
+    "winner": "Babanrao Lonikar",
+    "party": "BJP",
+    "votes": 85032
+  },
+  {
+    "ac_no": 205,
+    "ac_name": "Shivajinagar",
+    "district": "Pune",
+    "winner": "Siddharth Shirole",
+    "party": "BJP",
+    "votes": 105423
+  },
+  {
+    "ac_no": 53,
+    "ac_name": "Nagpur South",
+    "district": "Nagpur",
+    "winner": "Mohan Mate",
+    "party": "BJP",
+    "votes": 91478
+  }
+]
